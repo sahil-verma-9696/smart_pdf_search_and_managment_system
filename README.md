@@ -15,3 +15,6 @@
 # Time Line
 * **Idia Phase 💡** : january-26 2025
 * **Prototype phase 🚀**: febuary-07 2025
+
+# Features Discussing
+
